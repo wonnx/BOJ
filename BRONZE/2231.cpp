@@ -1,9 +1,7 @@
 #include<bits/stdc++.h>
 #define MAXN (int)1e6
 using namespace std;
-
 int solve[MAXN];
-
 int main()
 {
 	int n; cin >> n;
