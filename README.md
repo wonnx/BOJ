@@ -1,1 +1,2 @@
-# www.acmicpc.com solution for bronze problems
+# www.acmicpc.com 
+solution for bronze problems
